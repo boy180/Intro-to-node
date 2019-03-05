@@ -1,0 +1,26 @@
+{
+  "name": "dchen",
+  "version": "11.10.1",
+  "description": "simple web App",
+  "main": "index.js",
+  "dependencies": {
+    "mssql": "^4.3.2",
+    "upper-case": "^1.1.3",
+    "formidable": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node demo_readfile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boy180/Intro-to-node.git"
+  },
+  "author": "dc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boy180/Intro-to-node/issues"
+  },
+  "homepage": "https://github.com/boy180/Intro-to-node#readme"
+}
